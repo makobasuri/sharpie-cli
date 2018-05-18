@@ -1,0 +1,19 @@
+{
+  "name": "sharpie-cli",
+  "version": "1.0.0",
+  "description": "an exercise in node and sharp",
+  "main": "sharpie.js",
+  "bin": {
+    "sharpie": "sharpie.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marko Bajkovic",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "sharp": "^0.20.2"
+  },
+  "devDependencies": {}
+}
