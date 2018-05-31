@@ -9,4 +9,4 @@ CD into where your images are and execute commands -> all images inside will be 
 ```
 $ sharpie resize <width> [height]
 ```
-If used with height, can crop your image
+If used with height, can crop your images
